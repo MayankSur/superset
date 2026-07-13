@@ -228,7 +228,7 @@ development = [
     "grpcio>=1.81.1",
     "openapi-spec-validator",
     "parameterized",
-    "pip",
+    "pip==25.3",
     "polib",  # used by scripts/translations/ and their unit tests
     "pre-commit",
     "progress>=1.6.1,<2",
